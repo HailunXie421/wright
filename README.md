@@ -14,4 +14,4 @@ Unfortunately, only the Windows version is currently supported. The Mac version 
 
 Download it from the Releases section on the right.
 
-请在右侧release中下载.
+请在右侧Release中下载.
