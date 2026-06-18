@@ -15,3 +15,5 @@ Unfortunately, only the Windows version is currently supported. The Mac version 
 Download it from the Releases section on the right.
 
 请在右侧Release中下载.
+
+Tutorial / 使用说明: [YouTube Video](https://youtu.be/PhaB8UEPqWk)
